@@ -10,15 +10,17 @@ Hello :)
 
 So the client use the app for table and food reservation. And after the client reserve the Server find demands in her part of app.
 
-1. The list of food categories has:
+
 
 > The Client Choose Between:
-      1. List of Plate and list of Table.(he find part of Food and drinks Available and table Available too.
-      2. He can know all content of Which plate he choose, and it price.
+     
+     1. List of Plate and list of Table.(he find part of Food and drinks Available and table Available too.
+     2. He can know all content of Which plate he choose, and it price.
      
 > The Server :
-      1. The easy part it recive demands.
-      2. Prepar and serve the demands.
+     
+     1. The easy part it recive demands.
+     2. Prepar and serve the demands.
       
       
       
